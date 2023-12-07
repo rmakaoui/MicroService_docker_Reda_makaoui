@@ -12,27 +12,42 @@ This project consists of four microservices developed using Spring Boot:
 
 4. **Eureka Service**: Service registry and discovery for the microservices, enabling them to locate and communicate with each other.
 
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/50d57e49-d0ed-43c8-81fd-299413e5d8aa)
+
+
 ## Technologies Used
 
 - **Spring Boot**: Framework for building microservices.
   
 - **Eureka Server**: Service registry for microservices.
+
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/c8978075-a3be-4299-acf7-da4d0a1147e2)
+
   
 - **Spring Cloud Gateway**: Provides a simple, yet effective way to route to APIs and provide cross-cutting concerns.
-  
-- **Docker**: Containerization for seamless deployment.
 
 ## Project Structure
 
 The project is organized into the following modules:
 
 - **gateway-service**: Gateway service module.
+
+
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/12092eb4-420a-4d1a-b7ec-dafd55d8c03d)
   
 - **client-service**: Microservice for client information.
+
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/b61c0e4d-5b7d-4f95-989b-046f17a05e02)
+
   
 - **voiture-service**: Microservice for vehicle information.
+
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/c93f811f-2109-4772-aed3-e411c9ff9b00)
+
   
 - **eureka-service**: Service registry and discovery module.
+
+![image](https://github.com/rmakaoui/MicroService_docker_Reda_makaoui/assets/101502312/c8978075-a3be-4299-acf7-da4d0a1147e2)
 
 ## Database Configuration
 
